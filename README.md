@@ -1,6 +1,6 @@
 - 👋 Hello there! I’m @coderaulia
 - 👀 I’m interested in Web Development, SEO, and UI Design
-- 🌱 I’m currently learning React Js or basically MERN Stack & UI Design
+- 🌱 I’m currently learning Codeigniter, React Js or basically MERN Stack & UI Design
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me? Find me on Instagram.com/coderaulia
 
