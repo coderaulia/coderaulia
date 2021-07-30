@@ -1,6 +1,6 @@
 - 👋 Hello there! I’m @coderaulia, Fulltime Web Developer from Bogor, Indonesia
 - 👀 I’m interested in Web Development, SEO, and Psychology (actually I'm a psychology graduate). 
-- 🌱 I’m currently learning React Js or basically MERN Stack, Wordpress & UI Design.
+- 🌱 I’m currently learning Laravel, Wordpress Theme & Plugin Development & UI Design.
 - 📫 Feel free to reach me via Instagram & Twitter (coderaulia) and my website (https://pro.auliasatriow.com/).
 
 <!---
