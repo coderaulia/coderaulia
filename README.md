@@ -4,6 +4,10 @@
 - I’m currently learning Laravel, Wordpress Theme & Plugin Development & UI Design.
 - 📫 For professional or collaborative works, feel free to reach me via Instagram & Twitter (coderaulia) or my email coderaulia@gmail.com. Also visit my website (https://pro.auliasatriow.com/).
 
+
+![Coderaulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderaulia&show_icons=true)
+
+
 <!---
 coderaulia/coderaulia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
