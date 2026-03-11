@@ -1,11 +1,11 @@
-- 👋 Hello there! I’m @coderaulia, Fulltime HR Business Partner and Part-time developer from Bogor, Indonesia
+- 👋 Hello there! I’m @coderaulia, Fulltime HR Business Partner and Part-time developer from Jakarta, Indonesia
 - I’m interested in AI, Web Development, SEO, and Psychology (actually I'm a psychology graduate).
-- I'm skilled in CSS (Bootstrap & Tailwind also), JS, PHP, Laravel, Git, Wordpress Development (Divi, Elementor, Theme Development), Figma, and Linux Terminal. And I also have experience in SEO, Social Media Marketing & Growth.
+- I'm skilled in CSS (Bootstrap & Tailwind also), JavaScript, PHP, Wordpress Development (Divi, Elementor, Theme Development), Figma, and Linux Terminal. And I also have experience in SEO, Social Media Marketing & Growth.
 - I currently learning React JS, AI Dev, Wordpress Theme & Plugin Development.
-- 📫 For professional or collaborative works, feel free to reach me via Instagram & Twitter (coderaulia) or my email coderaulia@gmail.com. Also visit my website (https://vanaila.com/).
+- 📫 For professional or collaborative works, feel free to reach me via Instagram & Twitter (coderaulia) or my email coderaulia@gmail.com. Also visit my website to see my works there! (https://vanaila.com/).
 
 
-![Coderaulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderaulia&show_icons=true)
+![Coderaulia's GitHub stats](https://pixel-profile.vercel.app/api/github-stats?username=coderaulia&theme=road_trip&pixelate_avatar=true)
 
 
 <!---
